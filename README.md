@@ -19,10 +19,17 @@ During the matching of photos, full image scale was set for precisely extracting
 
 **The RGB orthomosaic and DSM image from the same point cloud model must be exported at the same ground sampling distance.**
 
+**The example dataset is shared from the link below:**
+
 ## 2 Processing 
 ### Step 1. Download source codes from the link below, and put them in one folder.
+**To download the codes, please fill a simple form below: **
+https://docs.google.com/forms/
+The download link will be sent to your email once the form is completed.
+
 ### Step 2. Generate the branch map in winter
 Edit the file path and parameters, then run Branch_map.m
+
 ### Step 3. Calculate the crown characters in summer
 Edit the file path and parameters, then run Crown_map.m
 
