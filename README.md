@@ -19,12 +19,10 @@ During the matching of photos, full image scale was set for precisely extracting
 
 **The RGB orthomosaic and DSM image from the same point cloud model must be exported at the same ground sampling distance.**
 
-**The example dataset is shared from the link below:**
-
 ## 2 Processing 
 ### Step 1. Download source codes from the link below, and put them in one folder.
 
-**To download the codes, please fill a simple form below:**
+**To download the example data and codes, please fill a simple form below:**
 
 https://docs.google.com/forms/
 
