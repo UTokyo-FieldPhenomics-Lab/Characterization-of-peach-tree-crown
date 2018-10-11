@@ -9,7 +9,7 @@ Images for peach trees can be collected by DJI inspire 1 (Shenzhen Dajiang Baiwa
 
 **Make sure the overlap of photos to the front and side is high enough to generate dense point cloud.**
 
-![](https://github.com/UTokyo-FieldPhenomics-Lab/Efficient-characterization-of-peach-tree-crown/blob/master/figure/FIG21.jpg) 
+![](https://github.com/UTokyo-FieldPhenomics-Lab/Efficient-characterization-of-peach-tree-crown-/blob/master/figure/FIG21.jpg) 
 The numbers label the flight order of way point and the red points mark the ground control points.
 
 ### b. Digital surface model (DSM) and RGB orthomosaic
