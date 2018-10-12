@@ -24,7 +24,7 @@ During the matching of photos, full image scale was set for precisely extracting
 
 **To download the example data and codes, please fill a simple form below:**
 
-https://docs.google.com/forms/
+https://goo.gl/forms/e0HaPDcKfK4OQVTW2
 
 The download link will be sent to your email once the form is completed.
 
