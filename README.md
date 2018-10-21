@@ -1,7 +1,9 @@
-# Efficient-characterization-of-peach-tree-crown
-The workflow of characterization of peach tree crown by using high-resolution images from an unmanned aerial vehicle. 
+# Characterization of peach tree crown by using high-resolution images from an unmanned aerial vehicle
+
 **This is a support page of paper published at "Horticulture Research" as an Original Research.**
 > Yue Mu, Yuichiro Fujii, Daisuke Takata, Bangyou Zheng, Koji Noshita, Kiyoshi Honda, Seishi Ninomiya, Wei Guo*. Characterization of peach tree crown by using high-resolution images from an unmanned aerial vehicle, Horticulture Research, 2018.
+
+Article DOI: 10.1038/s41438-018-0097-z
 
 ## 1 Data
 ### a. Raw UAV images
