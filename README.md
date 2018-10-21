@@ -40,6 +40,7 @@ Edit the file path and parameters, then run Crown_map.m
 ### b. Crown parameters (excel)
 
 ## 4 Contributors
-Yue MU 
-Wei Guo
+Yue MU (matlab codes and core algorithm)
+
+Wei Guo (workflow design)
 
