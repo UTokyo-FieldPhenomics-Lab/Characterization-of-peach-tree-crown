@@ -39,3 +39,7 @@ Edit the file path and parameters, then run Crown_map.m
 ### a. Crown map (tif)
 ### b. Crown parameters (excel)
 
+## 4 Contributors
+Yue MU 
+Wei Guo
+
