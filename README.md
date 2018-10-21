@@ -12,12 +12,11 @@ Images for peach trees can be collected by DJI inspire 1 (Shenzhen Dajiang Baiwa
 ![](https://github.com/UTokyo-FieldPhenomics-Lab/Efficient-characterization-of-peach-tree-crown-/blob/master/figure/FIG21.jpg) 
 The numbers label the flight order of way point and the red points mark the ground control points.
 
-### b. Digital surface model (DSM) and RGB orthomosaic
-DSM and orthomosaic can be generated in Pix4Dmapper Pro v. 4.0.25 software (Pix4D Inc., Switzerland) by the Structure from Motion algorithm using the raw images. 
+### b. Digital surface model (DSM)
+DSM can be generated in Pix4Dmapper Pro v. 4.0.25 software (Pix4D Inc., Switzerland) by using the raw images. 
 
 During the matching of photos, full image scale was set for precisely extracting the key points and the relative camera positions were also taken into account to discard geometrically unrealistic matches. In addition, **use the coodinates of ground control points to optimize the georeferencing of the point cloud**. During the generation of DSM, noise filtering was used to correct the altitude of these points with the median altitude of the neighbouring points. 
 
-**The RGB orthomosaic and DSM image from the same point cloud model must be exported at the same ground sampling distance.**
 
 ## 2 Processing 
 ### Step 1. Download source codes from the link below, and put them in one folder.
@@ -28,13 +27,13 @@ https://goo.gl/forms/e0HaPDcKfK4OQVTW2
 
 The download link will be sent to your email once the form is completed.
 
-### Step 2. Generate the branch map in winter
+### Step 2. Generate the branch map by using bare-branch DSM in winter
 Edit the file path and parameters, then run Branch_map.m
 
-### Step 3. Calculate the crown characters in summer
+### Step 3. Calculate the crown characters by using the foliated DSM in summer
 Edit the file path and parameters, then run Crown_map.m
 
 ## 3 Results
-### a. Crown map
-### b. Crown parameters
+### a. Crown map (tif)
+### b. Crown parameters (excel)
 
