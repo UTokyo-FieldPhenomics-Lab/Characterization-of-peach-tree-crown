@@ -21,7 +21,7 @@ During the matching of photos, full image scale was set for precisely extracting
 
 
 ## 2 Processing 
-### Step 1. Download source codes from the link below, and put them in one folder.
+### Step 1. Download the example data and source codes from the link below, and put them in one folder.
 
 **To download the example data and codes, please fill a simple form below:**
 
