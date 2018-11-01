@@ -19,10 +19,13 @@ Dense point cloud can be built in Pix4Dmapper Pro v. 4.0.25 software (Pix4D Inc.
 
 During the matching of photos, full image scale was set for precisely extracting the key points and the relative camera positions were also taken into account to discard geometrically unrealistic matches. In addition, **use the coodinates of ground control points to optimize the georeferencing of the point cloud**.
 
+![](https://github.com/UTokyo-FieldPhenomics-Lab/Characterization-of-peach-tree-crown/blob/master/figure/pc.png)
+
 ### c. Digital surface model (DSM) and RGB orthomosaic
 DSM and RGB orthomosaic can be generated in Pix4Dmapper Pro v. 4.0.25 software (Pix4D Inc., Switzerland) by using the point cloud. 
 
 During the generation of DSM, noise filtering was used to correct the altitude of these points with the median altitude of the neighbouring points. Finally, export the DSM and RGB orthomosaic at the same ground sampling distance.
+
 ![](https://github.com/UTokyo-FieldPhenomics-Lab/Characterization-of-peach-tree-crown/blob/master/figure/dsm.jpg)
 ![](https://github.com/UTokyo-FieldPhenomics-Lab/Characterization-of-peach-tree-crown/blob/master/figure/rgb_orthomosaic.jpg)
 
