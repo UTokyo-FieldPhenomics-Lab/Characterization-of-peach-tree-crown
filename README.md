@@ -23,6 +23,8 @@ During the matching of photos, full image scale was set for precisely extracting
 DSM and RGB orthomosaic can be generated in Pix4Dmapper Pro v. 4.0.25 software (Pix4D Inc., Switzerland) by using the point cloud. 
 
 During the generation of DSM, noise filtering was used to correct the altitude of these points with the median altitude of the neighbouring points. Finally, export the DSM and RGB orthomosaic at the same ground sampling distance.
+![](https://github.com/UTokyo-FieldPhenomics-Lab/Characterization-of-peach-tree-crown/blob/master/figure/dsm.jpg)
+![](https://github.com/UTokyo-FieldPhenomics-Lab/Characterization-of-peach-tree-crown/blob/master/figure/rgb_orthomosaic.jpg)
 
 ## 2 Processing 
 ### Step 1. Download the example data and source codes from the link below, and put them in one folder.
